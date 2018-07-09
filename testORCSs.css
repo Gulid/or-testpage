@@ -1,0 +1,127 @@
+*{
+	margin: 0;
+	padding: 0;
+
+	
+	
+}
+
+h1 {
+	font-size: 53px;
+	margin: 0 auto;
+	width: 100%;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	color: #C6E5EC;
+	
+	text-align: center;
+
+}
+
+button {
+	margin: 0 auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-size: 14px;
+	
+	margin-left: 47%;
+	margin-right: 45%;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	background-color: white;
+
+}
+
+nav {
+	margin: 0 auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+
+
+ul {
+	width: 100%;
+
+	margin: 0 auto;
+	margin-left: 20px;
+	margin-left: 20px;
+	
+	text-align: center;
+	border-top: 1px solid lightblue;
+
+}
+
+li {
+	
+	font-size: 12px;
+	display: inline;
+	
+	color: red;
+	height: 40px;
+	padding: 14px;
+	background-color: #A5A5A5;
+	margin-right: -5px;
+}
+
+body {
+	background-color: #A5A5A5;
+	
+	
+}
+
+a {
+	color: black;
+	
+	padding-top: 5.8px;
+
+}
+
+a:hover {
+	text-decoration: none;
+	color: #C6E5EC;
+	border-top: 1px solid #C6E5EC;
+	
+}
+button:hover, h1:hover {
+	text-decoration: none;
+	color: #C6E5EC;
+}
+
+.second {
+	color: white;
+}
+
+/*center*/
+
+.slick-slider {
+	width: 75%;
+	
+	margin: 0 auto;
+}
+img {
+	border: 1px solid grey;
+	margin: 50px;
+	margin-bottom: 200px;
+}
+
+.center {
+	height: 100%;
+	background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
